@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @vikscer
+- 🌎 Check out my website! https://scerbak.xyz
 - 👀 I’m interested in gamedev and data analysis
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on any gamedev themed projects or applications
